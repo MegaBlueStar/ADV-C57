@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  color: seagreen;
+  background: linear-gradient(#34eb46 0%, #34ebcc 100%);
+}
+
+p {
+  color: seagreen;
+  font-family: Verdana;
+}
+
+.percy {
+  border-radius: 100px;
+}
+
+#character {
+  font-family: Courier New;
+}
+
+h1 {
+  font-size: 30px;
+}
